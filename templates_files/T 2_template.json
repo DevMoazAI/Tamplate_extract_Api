@@ -1,0 +1,96 @@
+{
+    "template_title": "Extracted Template",
+    "source_type": "image",
+    "sections": [
+        {
+            "title": "Medical",
+            "content_type": "paragraph",
+            "verbosity": "concise"
+        },
+        {
+            "title": "History",
+            "content_type": "paragraph",
+            "verbosity": "concise"
+        },
+        {
+            "title": "Foryour",
+            "content_type": "paragraph",
+            "verbosity": "concise"
+        },
+        {
+            "title": "Medical",
+            "content_type": "paragraph",
+            "verbosity": "concise"
+        },
+        {
+            "title": "Records",
+            "content_type": "paragraph",
+            "verbosity": "concise"
+        },
+        {
+            "title": "A",
+            "content_type": "paragraph",
+            "verbosity": "concise"
+        },
+        {
+            "title": "Patient",
+            "content_type": "field",
+            "verbosity": "concise"
+        },
+        {
+            "title": "Age ",
+            "content_type": "field",
+            "verbosity": "concise"
+        },
+        {
+            "title": " Gender",
+            "content_type": "field",
+            "verbosity": "concise"
+        },
+        {
+            "title": "Weight",
+            "content_type": "field",
+            "verbosity": "concise"
+        },
+        {
+            "title": "Height",
+            "content_type": "field",
+            "verbosity": "concise"
+        },
+        {
+            "title": "Doctor",
+            "content_type": "field",
+            "verbosity": "concise"
+        },
+        {
+            "title": "Temperature",
+            "content_type": "paragraph",
+            "verbosity": "concise"
+        },
+        {
+            "title": "Heart Rate",
+            "content_type": "paragraph",
+            "verbosity": "concise"
+        },
+        {
+            "title": "Blood Preasure",
+            "content_type": "paragraph",
+            "verbosity": "concise"
+        },
+        {
+            "title": "Treatment",
+            "content_type": "paragraph",
+            "verbosity": "concise"
+        },
+        {
+            "title": "Description",
+            "content_type": "paragraph",
+            "verbosity": "concise"
+        },
+        {
+            "title": "Allergies",
+            "content_type": "paragraph",
+            "verbosity": "concise"
+        }
+    ]
+}

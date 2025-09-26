@@ -1,0 +1,98 @@
+{
+    "template_title": "Extracted Template",
+    "source_type": "image",
+    "sections": {
+        "template_title": "MEDICAL REPORT",
+        "sections": [
+            {
+                "section_title": "Student Information",
+                "fields": [
+                    {
+                        "field_name": "Gender",
+                        "field_type": "dropdown"
+                    },
+                    {
+                        "field_name": "Date of Birth",
+                        "field_type": "date"
+                    },
+                    {
+                        "field_name": "Address",
+                        "field_type": "text"
+                    }
+                ]
+            },
+            {
+                "section_title": "Medical History",
+                "fields": [
+                    {
+                        "field_name": "Known Medical Conditions",
+                        "field_type": "text"
+                    },
+                    {
+                        "field_name": "Allergies",
+                        "field_type": "text"
+                    },
+                    {
+                        "field_name": "Current Medication",
+                        "field_type": "text"
+                    }
+                ]
+            },
+            {
+                "section_title": "Physical Examination",
+                "fields": [
+                    {
+                        "field_name": "Vital Signs",
+                        "field_type": "text"
+                    },
+                    {
+                        "field_name": "Blood Pressure",
+                        "field_type": "text"
+                    },
+                    {
+                        "field_name": "Heart Rate",
+                        "field_type": "number"
+                    },
+                    {
+                        "field_name": "Respiratory Rate",
+                        "field_type": "number"
+                    },
+                    {
+                        "field_name": "Temperature",
+                        "field_type": "number"
+                    }
+                ]
+            },
+            {
+                "section_title": "Assessment",
+                "fields": [
+                    {
+                        "field_name": "Fit for Studies",
+                        "field_type": "checkbox"
+                    },
+                    {
+                        "field_name": "Contagious Illness",
+                        "field_type": "checkbox"
+                    }
+                ]
+            },
+            {
+                "section_title": "Physician's Information",
+                "fields": [
+                    {
+                        "field_name": "Physician's Name",
+                        "field_type": "text"
+                    },
+                    {
+                        "field_name": "Date",
+                        "field_type": "date"
+                    },
+                    {
+                        "field_name": "Signature",
+                        "field_type": "text"
+                    }
+                ]
+            }
+        ]
+    }
+}

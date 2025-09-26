@@ -1,0 +1,65 @@
+{
+    "template_title": "Extracted Template",
+    "source_type": "image",
+    "sections": {
+        "template_title": "Medical History",
+        "sections": [
+            {
+                "section_title": "Patient Information",
+                "fields": [
+                    {
+                        "field_name": "Age",
+                        "field_type": "number"
+                    },
+                    {
+                        "field_name": "Gender",
+                        "field_type": "dropdown"
+                    },
+                    {
+                        "field_name": "Weight",
+                        "field_type": "number"
+                    },
+                    {
+                        "field_name": "Height",
+                        "field_type": "number"
+                    }
+                ]
+            },
+            {
+                "section_title": "Vital Signs",
+                "fields": [
+                    {
+                        "field_name": "Temperature",
+                        "field_type": "number"
+                    },
+                    {
+                        "field_name": "Heart Rate",
+                        "field_type": "number"
+                    },
+                    {
+                        "field_name": "Blood Pressure",
+                        "field_type": "text"
+                    }
+                ]
+            },
+            {
+                "section_title": "Treatment",
+                "fields": [
+                    {
+                        "field_name": "Description",
+                        "field_type": "text"
+                    }
+                ]
+            },
+            {
+                "section_title": "Allergies",
+                "fields": [
+                    {
+                        "field_name": "Allergies",
+                        "field_type": "text"
+                    }
+                ]
+            }
+        ]
+    }
+}

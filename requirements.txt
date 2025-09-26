@@ -1,0 +1,9 @@
+python-docx
+pytesseract
+pillow
+pymupdf
+fastapi
+uvicorn
+python-dotenv
+openai
+python-multipart

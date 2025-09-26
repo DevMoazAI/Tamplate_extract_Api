@@ -1,0 +1,77 @@
+{
+    "template_title": "Extracted Template",
+    "source_type": "image",
+    "sections": {
+        "template_title": "Medical Receipt",
+        "sections": [
+            {
+                "section_title": "Patient Information",
+                "fields": [
+                    {
+                        "field_name": "Name",
+                        "field_type": "text"
+                    },
+                    {
+                        "field_name": "Address/City",
+                        "field_type": "text"
+                    },
+                    {
+                        "field_name": "Email/Phone",
+                        "field_type": "text"
+                    }
+                ]
+            },
+            {
+                "section_title": "Service/Medicine Details",
+                "fields": [
+                    {
+                        "field_name": "Service/Medicine Description",
+                        "field_type": "text"
+                    },
+                    {
+                        "field_name": "Rate",
+                        "field_type": "number"
+                    },
+                    {
+                        "field_name": "Line Total",
+                        "field_type": "number"
+                    }
+                ]
+            },
+            {
+                "section_title": "Financial Summary",
+                "fields": [
+                    {
+                        "field_name": "Subtotal",
+                        "field_type": "number"
+                    },
+                    {
+                        "field_name": "Discount",
+                        "field_type": "number"
+                    },
+                    {
+                        "field_name": "TAX /VAT",
+                        "field_type": "number"
+                    },
+                    {
+                        "field_name": "Total Amount Due",
+                        "field_type": "number"
+                    },
+                    {
+                        "field_name": "Amount Paid",
+                        "field_type": "number"
+                    }
+                ]
+            },
+            {
+                "section_title": "Additional Notes",
+                "fields": [
+                    {
+                        "field_name": "Remarks",
+                        "field_type": "text"
+                    }
+                ]
+            }
+        ]
+    }
+}
